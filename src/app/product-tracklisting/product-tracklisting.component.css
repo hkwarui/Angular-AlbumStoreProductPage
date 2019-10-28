@@ -1,15 +1,15 @@
-.trackListing {
+.tracklisting {
   font-size: 16px;
   padding-top: 10px;
 }
 
-ul {
+.tracklisting ul {
  list-style-type: none;
 }
-li{
+.tracklisting li{
   display: block;
   line-height: 30px;
 }
-li:nth-last-child(){
+.tracklisting li:nth-last-child(){
   line-height: 1px;
 }
